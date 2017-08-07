@@ -1,4 +1,4 @@
 # hello-world
 Learning Github
 
-What if I do this ?
+Whatever I erased won't get back ?
